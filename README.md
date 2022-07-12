@@ -10,9 +10,9 @@
 
 ## Code Problems
 
-#### **All the following problems can be solved using a higher order array method. You cannot use .forEach() to solve the following problems.** 
+### **All the following problems can be solved using a higher order array method. You cannot use .forEach() to solve the following problems.** 
 
-#### **Test all your solutions for questions 1-10 with the following variable:** 
+### **Test all your solutions for questions 1-10 with the following variable:** 
 
 `const animals =['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin']`
 
@@ -76,7 +76,7 @@
     sum(numbers) // 1608
     ```
     
-#### **Test all your solutions for the questions 1-4 with the following variable:** 
+### **Test all your solutions for the questions 1-4 with the following variable:** 
 
 ```jsx
 const alumni = [
